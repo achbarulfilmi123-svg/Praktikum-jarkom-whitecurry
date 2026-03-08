@@ -10,7 +10,7 @@
 4. klik wi-fi di kolom capture
 ![](../image/wifi.png)
 5. Wireshark akan otomatis mengambil paket
-![](../image/interface_wifi.png)
+![](../image/interface-wifi.png)
 6. untuk menghentikan pengambilan paket klik stop dengan icon kotak pada tool bar di atas
 ![](../image/stop.png)
 7. 
