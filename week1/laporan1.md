@@ -3,7 +3,8 @@
 ## Langkah-langkah 
 1. instal ISO Wireshark:
 ![instal](../image/install.png)
-2. instalasi Wireshark
+2. instalasi Wireshark(di sini saya sudah instal)
+![](../image/setup.png)
 3. jalankan Wireshark
 4. klik wi-fi di kolom capture
 5. Wireshark akan otomatis mengambil paket
