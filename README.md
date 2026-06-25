@@ -1,1 +1,0 @@
-# Praktikum-jarkom-whitecurry
